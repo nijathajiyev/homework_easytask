@@ -1,0 +1,93 @@
+body{
+    background-color: gray;
+}
+
+header, .nav, footer{
+    height: 100px;
+    width: 970px;
+    /* margin: auto; */
+    background-color: white;
+    color: gray;
+    text-align: center;
+    margin-top: 20px;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+header p, .nav p, footer p{
+    padding-top: 40px;
+    font-size: 20px;
+}
+
+section{
+    height: 300px;
+    margin-left: 20%;
+    margin-top: 20px;
+    width: 550px;
+    background-color: white;
+    float: left;
+}
+
+section p{
+    font-size: 20px;
+    text-align: center;
+    color: gray;
+    padding-top: 5px;
+}
+
+.art{
+    height: 210px;
+    width: 500px;
+    background-color: gray;
+    /* margin: auto; */
+    margin-left: 25px;
+}
+
+.art-a{
+    padding-top: 10px;
+    color: white;
+}
+
+.art-h{
+    height: 20px;
+    width: 400px;
+    background-color: white;
+    margin-left: 50px;
+    margin-bottom: 10px;
+    padding-top: 25px;
+    padding-bottom: 20px;
+    font-weight: bold;
+}
+
+.art-p{
+    height: 20px;
+    width: 400px;
+    background-color: white;
+    /* margin: auto; */
+    margin-left: 50px;
+    /* margin-bottom: 10px; */
+    padding-bottom: 20px;
+    font-weight: bold;
+    padding-top: 10px;
+}
+
+.asid{
+    height: 300px;
+    margin-right: 16%;
+    margin-top: 20px;
+    width: 400px;
+    float: right;
+    background-color: white;
+}
+
+.asid p{
+    font-size: 20px;
+    text-align: center;
+    color: gray;
+    padding-top: 5px;
+}
+
+footer{
+    margin-top: 22%;
+    clear: both;
+}
